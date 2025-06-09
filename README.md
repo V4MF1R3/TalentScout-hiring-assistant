@@ -300,4 +300,4 @@ For questions, issues, or suggestions:
 
 **Built with ❤️ for TalentScout Recruitment Agency**
 
-*Last updated: [Current Date]*
+*Last updated: 9 June, 2025*
