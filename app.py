@@ -528,8 +528,7 @@ def main():
             
         # Purpose and guidelines
         st.markdown("""
-<div class="sidebar-info">
-#### 🎯 Interview Purpose
+### 🎯 Interview Purpose
 I conduct initial screenings for technology positions, collecting your information and assessing technical skills through targeted questions.
 
 #### 📋 What I'll Ask
@@ -540,7 +539,6 @@ I conduct initial screenings for technology positions, collecting your informati
 
 #### ⏱️ Duration
 Approximately 10-15 minutes
-</div>
 """, unsafe_allow_html=True)
         
         # Display collected information
