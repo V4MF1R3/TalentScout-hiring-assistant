@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e  # Exit on any error
+set -e
 
 echo "🚀 TalentScout AI Hiring Assistant - Deployment Script"
 echo "=================================================="
